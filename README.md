@@ -43,7 +43,7 @@ $ ruby --version
 
 - so, to install ruby version of vim
 
-```bash
+e 2.0.0-p648``bash
 $ rvm install 2.0.0-p648
 $ rvm use 2.0.0-p648
 ```
